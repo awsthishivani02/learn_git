@@ -1,3 +1,3 @@
 # learn_git
-learn git
+lets learn git
 author-shivani awasthi
